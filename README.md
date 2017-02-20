@@ -1,6 +1,7 @@
 [![SU](https://raw.githubusercontent.com/Ericsongyl/SuperUtils/master/banner.png)](https://github.com/Ericsongyl/SuperUtils)
 
 # SuperUtils
+--------------
 AndroidLibrary：superutil is a library,include string format;check email,psw;time,mobile phone number,bank card num format……
 
 # How to import in your project
@@ -9,6 +10,7 @@ AndroidLibrary：superutil is a library,include string format;check email,psw;ti
 ```
 
 # Contents and how to use
+--------------------------
 1. AppLogUtil
 ```java
     AppLogUtil.i(tag, log info);
@@ -83,5 +85,7 @@ AndroidLibrary：superutil is a library,include string format;check email,psw;ti
 ```
 
 # Contact author
+---------------------
 Email:nicksong1009@foxmail.com
+
 blog:http://blog.csdn.net/weiren1101
